@@ -8,4 +8,4 @@
 
 
 
-![](Gen_images.PNG)
+![MNIST with GANs](Gen_images.PNG)
