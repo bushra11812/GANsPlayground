@@ -5,4 +5,7 @@
 2.   Create generator and discriminator loss functions.
 3.   Train the GAN and visualize the generated images.
 
-!(Gen_images.png)
+
+
+
+![](Gen_images.png)
